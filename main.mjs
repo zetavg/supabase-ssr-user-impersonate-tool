@@ -84,7 +84,7 @@ const main = defineCommand({
       process.exit(1)
     }
 
-console.log('Please execute the following JS snippet in the site, and refresh the page to sign in as the user:')
+console.log('// Please execute the following JS snippet in the site, and refresh the page to sign in as the user:')
 console.log('')
 console.log('// --------')
 console.log('')
